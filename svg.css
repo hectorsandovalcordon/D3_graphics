@@ -1,0 +1,37 @@
+.rectangulo{
+    fill: yellowgreen;
+    stroke: green;
+    stroke-width: 7px;
+}
+.circulo{
+    fill:orange;
+    stroke: orangered;
+    stroke-width: 7px;
+}
+.cuadrado1{
+    fill: rgba(128, 0, 128, 0.25)
+}
+.cuadrado2{
+    fill: rgba(128, 0, 128, 0.40)
+}
+.cuadrado3{
+    fill: rgba(128, 0, 128, 0.60)
+}
+.cuadrado4{
+    fill: rgba(128, 0, 128, 1)
+}
+.circulo1{
+    fill: rgba(128, 0, 128, 0.75); 
+    stroke: rgba(0, 255, 0, 0.25);
+    stroke-width: 10px;
+}
+.circulo2{
+    fill: rgba(0, 255, 0, 0.75);
+    stroke: rgba(0, 0, 255, 0.25);
+    stroke-width: 10px;
+}
+.circulo3{
+    fill: rgba(255, 255, 0, 0.75);
+    stroke: rgba(255, 0, 0, 0.25);
+    stroke-width: 10px;
+}
