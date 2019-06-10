@@ -5,6 +5,9 @@ D3 es una librería de JavaScript utilizada para, a partir de los datos con los 
 
 <h3>¿Qué es necesario saber para trabajar con D3.js</h3>
 Para trabajar con dicha librería es necesario tener conocimiento de:
-Item 1 HTML
-Item 2 CSS
-Item 3 JavaScript
+
+> HTML
+
+> CSS
+
+> JavaScript
